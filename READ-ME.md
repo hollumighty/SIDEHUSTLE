@@ -26,7 +26,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/my-solution.png)
-![my-solution](https://user-images.githubusercontent.com/46673723/124401859-01947600-dd24-11eb-8c44-61fd93d3ef84.png)
 
 - screenshot of my solution in the images folder named my-solution.png
 
