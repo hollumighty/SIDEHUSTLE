@@ -32,7 +32,7 @@ Users should be able to:
 ###links
 
 - Solution URL: https://github.com/hollumighty/SIDEHUSTLE
-- Live Site URL: https://app.netlify.com/sites/wonderful-visvesvaraya-cc0c81/overview
+- Live Site URL: https://wonderful-visvesvaraya-cc0c81.netlify.app/
 
 ## My process
 
@@ -97,8 +97,8 @@ this helped me a lot with CSS in general
 
 ## Author
 
-- Website - https://app.netlify.com/sites/wonderful-visvesvaraya-cc0c81/overview
-- Twitter - [](https://www.twitter.com/olu-ayorinde)
+- Website - https://wonderful-visvesvaraya-cc0c81.netlify.app/
+- Twitter - [](https://www.twitter.com/olu-ayorinde95)
 
 
 ## Acknowledgments
